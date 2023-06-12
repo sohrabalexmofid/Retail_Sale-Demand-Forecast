@@ -1,7 +1,8 @@
 #  Retail_Sale-Demand-Forecast
 Predict Walmart sales at store-day level for three year time-span.
 
-![download](https://github.com/sohrabalexmofid/Retail_Sale-Demand-Forcast/assets/123208599/bb26f86f-9895-486c-a35b-cf075ecdec92)
+![download](https://github.com/sohrabalexmofid/Retail_Sale-Demand-Forecast/assets/123208599/689bfacb-7dc6-4a09-8ed5-e9792a3c19b1)
+
 
 
 
