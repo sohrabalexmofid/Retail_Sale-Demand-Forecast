@@ -23,7 +23,7 @@ Single model for all stores, using storeid as a feature.
 
 Separate model for each store.
 
-Ensemble method, using Random forest or othe tree-based regressors.
+Ensemble method, using Random forest or other tree-based regressors.
 
 Regularized regression to see if the performance is better for an unseen test set.
 
